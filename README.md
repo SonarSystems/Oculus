@@ -18,6 +18,6 @@ mv "${HOME}/Library/Application Support/Steam/steamapps//common/DOOM 3" "${HOME}
 
 ### Install Half-Life On Steam
 
-echo '"AppState" { "AppID" "10" "Universe" "1" "installdir" "HALF-LIFE" "StateFlags" "1026" }' > "${HOME}/Library/Application Support/Steam/steamapps/appmanifest_10.acf"
+echo '"AppState" { "AppID" "70" "Universe" "1" "installdir" "HALF-LIFE" "StateFlags" "1026" }' > "${HOME}/Library/Application Support/Steam/steamapps/appmanifest_70.acf"
 
-mv "${HOME}/Library/Application Support/Steam/steamapps//common/HALF-LIFE" "${HOME}/Documents/"; rm "${HOME}/Library/Application Support/Steam/steamapps/appmanifest_10.acf"
+mv "${HOME}/Library/Application Support/Steam/steamapps//common/HALF-LIFE" "${HOME}/Documents/"; rm "${HOME}/Library/Application Support/Steam/steamapps/appmanifest_70.acf"
